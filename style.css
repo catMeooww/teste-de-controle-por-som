@@ -1,0 +1,25 @@
+#titulo{
+    font-family: 'Playfair Display', serif;
+    color:black;
+}
+.copyrightFooter{
+    text-align: center;
+    border-top-width: 1px;
+    border-top-style: solid;
+    position: fixed;
+    color:white;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(116, 119, 243);
+    text-shadow: 5px 5px 5px black;
+}
+.main_div{
+    background-color: aqua;
+}
+.header_div{
+    background-color: aliceblue;
+}
+button{
+    margin-top: 15px;
+}
